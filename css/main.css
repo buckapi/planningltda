@@ -2207,7 +2207,7 @@ nav.main-menu ul {
     background-position: center center;
     background-attachment: scroll;
 }
-.footer:before, .footer:after {
+/*.footer:before, .footer:after {
     content: '';
     position: absolute;
     height: 20px;
@@ -2236,7 +2236,7 @@ nav.main-menu ul {
     animation-delay: -2s;
     -webkit-animation-duration: 8s;
     animation-duration: 8s;
-}
+}*/
 @keyframes move {
     0% {
         background-position: left 0 bottom 0

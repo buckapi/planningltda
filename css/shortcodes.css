@@ -3393,7 +3393,7 @@ ul.contact-widget-wrapper li {
 
 /*** Color Switcher Style
 ==================================================================== ***/
-.prt_floting_customsett {
+/*.prt_floting_customsett {
     position: fixed;
     top: 50%;
     right: 0;
@@ -3450,7 +3450,7 @@ ul.contact-widget-wrapper li {
    opacity: 1;
     visibility: visible;
     transform: translateX(0);
-}
+}*/
 
 .tm-desctext {
     position: absolute;
