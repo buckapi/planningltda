@@ -285,7 +285,7 @@
 	.res-1199-margin_top30 { margin-top: 30px !important; }
 	.res-1199-margin_top50 { margin-top: 50px !important; }
 
-	.top_bar, .header_extra, .header_btn, .header_cta, .widget_info { display: none !important; }
+	.top_bar, .header_extra, .header_btn, .header_cta, .widget_info { display: table-column-group; }
 	
 	/* Header */
 	header .container{ max-width: 100%; }
