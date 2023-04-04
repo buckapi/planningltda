@@ -271,7 +271,7 @@
 
 .section-title h2.title{
     font-weight: 700;
-    text-transform: capitalize;
+    
     font-size: 45px;
     line-height: 54px;
     margin-bottom: 10px;
@@ -896,7 +896,7 @@ i.fa-play{ padding-left: 5px; }
     font-size: 18px;
     line-height: 23px;
     font-weight: 600;
-    text-transform: capitalize;
+    
     padding-left: 20px;
 }
 
@@ -907,7 +907,7 @@ i.fa-play{ padding-left: 5px; }
 ------------------------*/
 .featured-icon-box { position: relative; margin: 15px 0; }
 .featured-icon-box .ttm-icon{ margin-bottom: 0; }
-.featured-title h3{ font-size: 22px; line-height: 30px; margin-bottom: 12px; font-weight: 600; text-transform: capitalize;}
+.featured-title h3{ font-size: 22px; line-height: 30px; margin-bottom: 12px; font-weight: 600; }
 
 .featured-icon-box.icon-align-before-content .featured-icon,
 .featured-icon-box.icon-align-before-content .featured-content,
@@ -1245,7 +1245,7 @@ i.fa-play{ padding-left: 5px; }
 
 /* style7 */
 .featured-icon-box.style7 {
-    padding: 33px 25px 30px;
+    padding: 25px 25px 25px;
     border: 1px solid #e4ebff;
     border-right: 0;
     background-color: #fff;
@@ -1471,7 +1471,7 @@ div:hover > .ttm-box-view-overlay:before, div:hover > .ttm-box-view-content-inne
     line-height: 1;
     display: block;
     font-weight: 700;
-    text-transform: capitalize;
+    
 }
 .post-category{
     display: inline-block;
@@ -2308,7 +2308,7 @@ div:hover > .ttm-box-view-overlay:before, div:hover > .ttm-box-view-content-inne
     margin-bottom: 13px;
     font-weight: 600;
     padding-right: 50px;
-    text-transform: capitalize;
+    
 }
 .ttm-progress-bar .progress-bar-percent {
     position: absolute;
@@ -2664,7 +2664,7 @@ div:hover > .ttm-box-view-overlay:before, div:hover > .ttm-box-view-content-inne
     margin-top: 0;
 }
 .accordion .toggle.ttm-toggle_style_classic .toggle-title a {
-    text-transform: capitalize;
+    
     font-size: 16px;
     line-height: 24px;
     font-weight: 600;
